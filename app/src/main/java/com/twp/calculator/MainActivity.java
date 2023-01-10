@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView two = findViewById(R.id.two);
+        Button two = findViewById(R.id.two);
         two.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView three = findViewById(R.id.three);
+        Button three = findViewById(R.id.three);
         three.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView four = findViewById(R.id.four);
+        Button four = findViewById(R.id.four);
         four.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView five = findViewById(R.id.five);
+        Button five = findViewById(R.id.five);
         five.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView six = findViewById(R.id.six);
+        Button six = findViewById(R.id.six);
         six.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView seven = findViewById(R.id.seven);
+        Button seven = findViewById(R.id.seven);
         seven.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView eight = findViewById(R.id.eight);
+        Button eight = findViewById(R.id.eight);
         eight.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView nine = findViewById(R.id.nine);
+        Button nine = findViewById(R.id.nine);
         nine.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        TextView zero = findViewById(R.id.zero);
+        Button zero = findViewById(R.id.zero);
         zero.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
